@@ -27,9 +27,9 @@ body,html {
   transition: all .08s ease;
   width: 10rem;
   text-align: center;
-  color: white;
-  background: rgba(0,0,0,0.4);
-  text-shadow: 0 0 .5rem black;
+  color: rgb(218, 71, 71);
+  background: rgba(182, 178, 179, 0.732);
+  text-shadow: 0 0 .5rem rgb(214, 15, 15);
 }
 
 .playing {
@@ -47,5 +47,5 @@ kbd {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: #ffc600;
+  color: #035f54;
 }
